@@ -1,1 +1,3 @@
 Sample file in B1 branch.
+
+Code changed in B2 branch.
